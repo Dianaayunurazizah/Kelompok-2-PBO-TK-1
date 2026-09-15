@@ -375,7 +375,7 @@ public class frame_Diana extends javax.swing.JFrame {
         jPanel11.add(jLabel31);
 
         jLabel32.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
-        jLabel32.setText("085784799036");
+        jLabel32.setText("08578479 9036");
         jPanel11.add(jLabel32);
 
         jLabel33.setFont(new java.awt.Font("Poppins", 0, 14)); // NOI18N
